@@ -2,13 +2,12 @@
 ```
 # Chat Application 🚀
 
-Welcome to the **Chat Application**! This real-time chat app allows users to communicate seamlessly with features like user authentication and instant messaging.
+Welcome to the **PEER-CHAT**! This real-time chat app allows users to communicate seamlessly with features like user authentication and instant messaging.
 
 ---
 
 ## 🌐 Live Demo
 👉 [Chat Application Link](https://peer-chat-xbeu.onrender.com)
-
 ---
 
 ## 📖 About the Project
@@ -31,5 +30,4 @@ This project is a full-stack chat application built with modern web technologies
 
 ---
 
-## 📂 Folder Structure
 
